@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zeynal Abidin AYHAN</h1>
+<h1 align="center">Hi 👋, I'm Zeynel Abidin AYHAN</h1>
 <h3 align="center">A passionate frontend developer from turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vortexzaa&label=Profile%20views&color=0e75b6&style=flat" alt="vortexzaa" /> </p>
 
 - 🔭 I’m currently working on [Edu3Labs](https://www.edu3labs.com/)
 
-- 🌱 I’m currently learning **Nuxt**
+- 🌱 I’m currently learning **Nuxt, Solidty**
 
 - 👨‍💻 All of my projects are available at [https://zeynel.dev/](https://zeynel.dev/)
 
