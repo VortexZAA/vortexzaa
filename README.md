@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vortexzaa&label=Profile%20views&color=0e75b6&style=flat" alt="vortexzaa" /> </p>
 
-- 🔭 I’m currently working on [Edu3Labs](https://www.edu3labs.com/)
+- 🔭 I’m currently working on [Edu3Labs](https://test.www.edu3labs.com/)
 
 - 🌱 I’m currently learning **Nuxt, Solidty**
 
-- 👨‍💻 All of my projects are available at [https://zeynel.dev/](https://zeynel.dev/)
+- 👨‍💻 All of my projects are available at [zeynel.dev](https://zeynel.dev/)
 
 - 💬 Ask me about **Next, React, Cloudflare, Vue, Tailwind**
 
